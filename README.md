@@ -4,7 +4,7 @@
 <h3 align="left">This past year I've worked on a B2B and B2C platform in Vue.js at Atriis.</h3>
 <h3 align="left">Formerly a Biotech R&D Engineer and holds a MSc in Biology and BSc in Biochemical Engineering (Technion institue of technology).</h3>
 
-🌟 Technologies I've learned and worked with: React, Vue, Angular, TypeScript, Node.js, Redux, WebSockets, MongoDB, Responsive Scss.
+🌟 Technologies I've learned and worked with: React, Redux, Vue, Vuex, Angular, TypeScript, Node.js, WebSockets, MongoDB, Responsive Scss.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
