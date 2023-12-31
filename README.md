@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm May Almog</h1>
 <h3 align="left">Fullstack Web Developer with experience in writing single page applications.</h3>
 
-<h3 align="left">This past year I've worked on a B2B and B2C platform in Vue.js at Atriis.</h3>
 <h3 align="left">Formerly a Biotech R&D Engineer and holds a MSc in Biology and BSc in Biochemical Engineering</h3>
 
 🌟 Technologies I've learned and worked with: React, Redux, Vue, Vuex, Angular, TypeScript, Node.js, WebSockets, MongoDB, Responsive Scss.
