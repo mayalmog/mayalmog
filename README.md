@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm May Almog</h1>
-<h3 align="left">Fullstack Web Developer with experience in writing single page applications.</h3>
 
-🌟 Technologies I've learned and worked with: React, Redux, Vue, Vuex, Angular, TypeScript, Node.js, WebSockets, MongoDB, SQL, Responsive Scss.
+🌟  Full-stack software engineer with 4+ years of experience building and
+shipping production-grade web applications end-to-end — from frontend
+interfaces through backend services to AWS infrastructure and deployment.
 
-🌟Cloud Platforms and Analytics Tools: AWS, Azure, Mixpanel
+🌟  Holds an MSc in Biology and a BSc in Biochemical Engineering,
+complemented by hands-on experience in scientific R&D and FDA regulatory
+writing. 
+
+🌟 Applies a multidisciplinary background to health tech, biotech, edtech, and science-driven product teams.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
